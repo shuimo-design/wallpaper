@@ -2,7 +2,7 @@
 
 you can choose single wallpaper as your wallpaper,
 
-or you can use [shuimo.heic](./build/shuimo.heic) as your wallpaper in mac.
+or you can use [shuimo.heic](https://github.com/shuimo-design/wallpaper/releases/download/v0.0.1/shuimo.heic) as your wallpaper in mac.
 
 **This project follows the [CC BY-NC-ND 4.0](./LICENSE) license** 
 
